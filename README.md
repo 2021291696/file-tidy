@@ -34,7 +34,3 @@ cp -r references ~/.claude/skills/file-tidy/
 1. 干跑扫描 → 输出 before/after 树 → 嵌入 weaver 摘要
 2. 用户确认 → weaver 调用 file-tidy 执行整理
 
-## 关联项目
-
-- [weaver-evolve](https://github.com/2021291696/weaver-evolve) — 跨项目全局整理 skill，在文件系统整理步骤调用本 skill
-- [skill-bootstrapper](https://github.com/2021291696/skill-bootstrapper) — 本 skill 通过其快速通道创建
